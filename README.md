@@ -7,3 +7,4 @@
 !(https://github.com/yu-urls/wikijs_login/blob/main/img/image.png)
 !([tree/main/img/image.png "Magic Gardens"](https://github.com/yu-urls/wikijs_login/blob/main/img/image.png))
 ![描述](img/image.png)
+![项目截图](https://github.com/yu-urls/wikijs_login/blob/main/img/image.png?raw=true)
