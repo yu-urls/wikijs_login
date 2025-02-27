@@ -5,4 +5,4 @@
 登录页背景图地址：wikijs根目录/_assets/img/splash/1.jpg，可自行更换或删除。
 效果如下：
 ![图片描述]([./img/image.png](https://github.com/yu-urls/wikijs_login/blob/main/img/image.png))
-![图片描述](/img/image.png)
+![图片描述](/img/img.jpg)
