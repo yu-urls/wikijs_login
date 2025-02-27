@@ -4,4 +4,4 @@
 <p>复制文件到wikijs根目录/_assets/css/login.ec84cd42b23af7420dcf.css替换使用，替换前请备份原文件，不同服务可能css名称不同</p>
 登录页背景图地址：wikijs根目录/_assets/img/splash/1.jpg，可自行更换或删除。
 效果如下：
-![Uploading image.png…]()
+!(img/image.png)
