@@ -6,3 +6,5 @@
 效果如下：
 /img/image.png
 ![图片描述](./img/image.png)
+![图片描述](/img/image.png)
+![图片描述](https://raw.githubusercontent.com//yu-urls/wikijs_login/edit/main/img/img.png)
