@@ -6,3 +6,4 @@
 效果如下：
 !(img/image.png)
 ![这是图片](img/image.png "Magic Gardens")
+![描述](img/image.png)
