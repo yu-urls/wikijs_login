@@ -5,3 +5,4 @@
 登录页背景图地址：wikijs根目录/_assets/img/splash/1.jpg，可自行更换或删除。
 效果如下：
 !(img/image.png)
+![这是图片](img/image.png "Magic Gardens")
