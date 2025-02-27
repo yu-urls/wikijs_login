@@ -5,5 +5,5 @@
 登录页背景图地址：wikijs根目录/_assets/img/splash/1.jpg，可自行更换或删除。
 效果如下：
 !(https://github.com/yu-urls/wikijs_login/blob/main/img/image.png)
-!(tree/main/img/image.png "Magic Gardens")
+!([tree/main/img/image.png "Magic Gardens"](https://github.com/yu-urls/wikijs_login/blob/main/img/image.png))
 ![描述](img/image.png)
